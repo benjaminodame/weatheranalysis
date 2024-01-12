@@ -19,9 +19,12 @@ Data.Wind.Speed: Wind speed.
 # Objectives
 The primary objectives of the analysis were to:
 
-Understand temperature and precipitation trends.
-Identify geographical variations in climate.
-Detect extreme weather events and variability.
+Comprehend temperature and precipitation trends
+Identify geographical variations in climate
+Detect extreme weather events and variability
+Evaluate states for travel suitability based on monthly weather conditions
+
+
 # Methodology
 Several analytical approaches were used, including:
 
